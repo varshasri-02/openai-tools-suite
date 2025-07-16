@@ -49,7 +49,7 @@ Analyzes uploaded resumes and gives personalized feedback based on the target jo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openai-tools-suite.git
+git clone https://github.com/varshasri-02/openai-tools-suite.git
 cd openai-tools-suite
 ```
 
